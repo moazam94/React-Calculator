@@ -59,9 +59,23 @@ input[type="text"] {
 }
 
 button {
-  margin: 5px;
+  margin: 2.8px;
   border: none;
-  border-radius: 5px;
+  border-radius: 25px;
   cursor: pointer;
+  background: lightgray;
   color: black;
+  font-weight: 500;
+}
+
+/* input:focus,
+input:active,
+button:focus,
+button:active {
+  outline: none;
+} */
+
+.highlight {
+  background: darkorange;
+  color: white;
 }
