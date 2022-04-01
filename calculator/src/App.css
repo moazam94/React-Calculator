@@ -2,7 +2,7 @@
 
 * {
   font-family: 'Roboto', sans-serif;
-  font-size: 18px; 
+  font-size: 18.5px; 
 }
 
 body {
@@ -21,7 +21,7 @@ body {
   text-align: center;
   border: 10px solid black;
   background: black;
-  border-radius: 5px;
+  border-radius: 20px;
 }
 
 .keypad {
